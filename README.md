@@ -11,4 +11,7 @@ Optionally, you can directly publish the gallery on Netlify, which offers a free
 
 Simple Photo Gallery is developed by Srikanta Mahanta. I wanted an easy way to share photos with friends, but wasn't happy with the limited customization options that existing sharing solutions like Amazon Photos or iCloud offer.
 
-Please contact me on Twitter if you have any questions, ideas for improvement or feature requests.
+Please contact me on Twitter if you have any questions, ideas for improvement or feature requests. 
+
+
+website link- https://frolicking-meringue-40f12d.netlify.app/#images
